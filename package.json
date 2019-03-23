@@ -18,8 +18,8 @@
     "url": "https://github.com/Enorma/sample-deployed/issues"
   },
   "homepage": "https://github.com/Enorma/sample-deployed#readme",
-  "devDependencies": {
-    "express": "^4.16.4",
-    "serve": "^10.1.2"
+  "devDependencies": {},
+  "dependencies": {
+    "express": "^4.16.4"
   }
 }
