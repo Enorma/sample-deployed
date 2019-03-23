@@ -1,0 +1,25 @@
+{
+  "name": "sample-deployed",
+  "version": "1.0.0",
+  "description": "mi primera pendejada deployada",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Enorma/sample-deployed.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Enorma/sample-deployed/issues"
+  },
+  "homepage": "https://github.com/Enorma/sample-deployed#readme",
+  "devDependencies": {
+    "express": "^4.16.4",
+    "serve": "^10.1.2"
+  }
+}
